@@ -1,0 +1,1 @@
+# react-redux-rtkq-gitsearch
