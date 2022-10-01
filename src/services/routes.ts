@@ -5,5 +5,8 @@ export const APP_ROUTES = {
     },
     FAVOURITES:{
         path: '/favourites'
+    },
+    LOGIN:{
+        path: '/login'
     }
 } as const
